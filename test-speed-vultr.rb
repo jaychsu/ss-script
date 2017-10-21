@@ -1,5 +1,5 @@
 # gem install down rails
-# ruby test_vultr.rb | column -t -s "|"
+# ruby test-speed-vultr.rb | column -t -s "|"
 
 require 'open-uri'
 require 'nokogiri'
